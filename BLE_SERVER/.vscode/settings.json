@@ -1,0 +1,8 @@
+{
+    "idf.adapterTargetName": "esp32c3",
+    "files.associations": {
+        "esp_sleep.h": "c",
+        "esp_event.h": "c",
+        "freertos.h": "c"
+    }
+}
